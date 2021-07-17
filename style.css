@@ -1,0 +1,20 @@
+div {
+  width: 20%;
+  margin: auto;
+}
+
+input,
+button {
+  display: inline-block;
+  padding: 10px;
+}
+
+#add {
+  color: white;
+  background-color: green;
+}
+
+#subtract {
+  color: white;
+  background-color: red;
+}
